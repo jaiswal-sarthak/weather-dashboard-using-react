@@ -2,6 +2,9 @@
 
 A beautiful, real-time weather monitoring application built with React that provides comprehensive weather analytics for cities worldwide with Google OAuth integration.
 
+## 🚀 Live Demo
+
+**Live Application:** [https://weather-sarthak-jaiswal.netlify.app](https://weather-sarthak-jaiswal.netlify.app)
 ![Weather Dashboard](https://img.shields.io/badge/React-18.2.0-blue) ![License](https://img.shields.io/badge/License-MIT-green) ![Deployment](https://img.shields.io/badge/Deployed-Netlify-success)
 
 ## ✨ Features
@@ -37,10 +40,6 @@ A beautiful, real-time weather monitoring application built with React that prov
 - Smooth animations and transitions
 - Dark/Light mode ready components
 - Interactive charts with Recharts
-
-## 🚀 Live Demo
-
-**Live Application:** [https://weather-sarthak-jaiswal.netlify.app](https://weather-sarthak-jaiswal.netlify.app)
 
 ## 🛠️ Installation & Setup
 
